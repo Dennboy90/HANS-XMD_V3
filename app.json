@@ -11,9 +11,9 @@
   "stack":"heroku-24",
   "env":{
       "SESSION_ID": {
-      "description": "Paste here session id that you have scanned",
+      "description": "HansTz&ZSk2Ta6D#JL9VrdbC62f5ZAUyFD9H2PsY9RIn9-Y9ZfUUMGkbnOM",
       "required": true,
-      "value": ""
+      "value": "true"
     },
     "MODE": {
       "description": "Enter public or private",
@@ -38,7 +38,7 @@
     "AUTO_RECORDING": {
       "description": "Enter true if you want bot to show recording audio. Or leave blank",
       "required": false,
-      "value": ""
+      "value": "true"
     },
     "ALWAYS_ONLINE": {
       "description": "Enter it true if you want bot to show always online. Or leave blank",
